@@ -1,6 +1,6 @@
 # Day 1: Semantic HTML
 
-This project is a simple HTML page showcasing the use of semantic HTML elements. It includes a header, navigation, and an article about the Internet written using semantic elements.
+This project is a simple HTML page showcasing the use of semantic HTML elements. It includes a header, navigation, and sections about the Internet written using semantic elements.
 
 ## Semantic HTML Elements Used
 
