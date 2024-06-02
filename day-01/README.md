@@ -18,3 +18,6 @@ The article provides a brief overview of the Internet, its history, and its impa
 
 Open the `index.html` file in your web browser to view the page.
 
+## Screenshot
+
+![Day 1 Screenshot](../images/day-01.png)
