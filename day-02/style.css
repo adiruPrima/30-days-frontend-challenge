@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header,
+nav,
+main,
+section,
+footer {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+header {
+  background: #f4f4f4;
+}
+
+nav {
+  background: #e4e4e4;
+  margin-bottom: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background: #e4e4e4;
+  text-align: center;
+}
