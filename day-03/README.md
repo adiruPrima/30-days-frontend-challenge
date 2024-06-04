@@ -5,9 +5,9 @@ This project is a simple login page created using HTML and CSS. It includes fiel
 ## Project Structure
 
 day-03/
-├── index.html
-├── styles.css
-└── README.md
+├── index.html\
+├── styles.css\
+├── README.md
 
 ## Features
 
