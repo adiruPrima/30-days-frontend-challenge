@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Make card appear in the middle */
+
+body {
+  background-color: rgb(210, 232, 252);
+  font-family: Helvetica, sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: azure;
+  padding: 2rem;
+  border-radius: 0.6rem;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.input-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin-bottom: 3.5rem;
+}
+
+input {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+}
+
+#loginBtn {
+  background-color: rgb(72, 134, 188);
+  color: white;
+  display: block;
+  font-size: 1rem;
+  padding: 0.7rem;
+  margin-top: 1rem;
+  width: 100%;
+  border: none;
+  border-radius: 1.2rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+#loginBtn:hover {
+  background-color: rgb(84, 148, 205);
+}
+
+.signupLink {
+  margin-top: 1rem;
+}
