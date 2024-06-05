@@ -1,4 +1,4 @@
-# Day 3: Responsive Semantic HTML
+# Day 4: Responsive Semantic HTML
 
 This project enhances the styled semantic HTML page from Day 2 by making it responsive using CSS media queries. It demonstrates how to adjust the layout and styling for different screen sizes to ensure the webpage is mobile-friendly.
 
