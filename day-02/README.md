@@ -16,4 +16,4 @@ This project enhances the semantic HTML page from Day 1 by adding CSS for stylin
 
 ## Screenshot
 
-![Day 1 Screenshot](../images/day-02.png)
+![Day 2 Screenshot](../images/day-02.png)
