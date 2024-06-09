@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-main: rgb(25, 25, 140);
+  --clr-red: rgb(161, 10, 10);
+  --clr-card: rgb(245, 245, 230);
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aliceblue;
+}
+
+.card {
+  background-color: var(--clr-card);
+  display: flex;
+  padding: 2.5rem;
+  gap: 1rem;
+  border-radius: 0.8rem;
+  box-shadow: 0 0.3rem 1rem rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: box-shadow 2s, margin-top 2s;
+}
+
+.card:hover {
+  margin-top: -1rem;
+  box-shadow: 0 0.5rem 1.2rem rgba(0, 0, 0, 0.8);
+}
+
+.photo {
+  width: 11rem;
+  height: inherit;
+  margin-bottom: 0.5rem;
+  border: solid var(--clr-main) 0.5px;
+}
+
+.uni {
+  color: var(--clr-main);
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 3rem;
+  line-height: 0.7;
+}
+
+.uni p {
+  font-size: 0.9rem;
+}
+
+.name-and-id {
+  margin-bottom: 1rem;
+}
+
+.info {
+  margin-bottom: 1rem;
+}
+
+.barcode {
+  width: 14rem;
+  height: 2rem;
+}
+
+h3 {
+  color: var(--clr-main);
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.expiration-date {
+  color: var(--clr-red);
+  font-size: 0.8rem;
+}
