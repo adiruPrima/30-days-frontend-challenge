@@ -21,4 +21,4 @@ This project is a simple counter app created using HTML, CSS, and JavaScript. Th
 
 ## Screenshots
 
-![Simple Counter App Screenshot](screenshot.png)
+![Simple Counter App Screenshot](../images/day-06.png)
