@@ -15,7 +15,7 @@ This project is a simple counter app created using HTML, CSS, and JavaScript. Th
 
 Or
 
-Click the link here.
+- Try live demo: [Simple Counter App](https://adiruprima.github.io/30-days-frontend-challenge/day-06/)
 
 ## Learning Outcomes
 
