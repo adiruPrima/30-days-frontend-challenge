@@ -13,6 +13,10 @@ This project is a simple counter app created using HTML, CSS, and JavaScript. Th
 1. Clone the repository.
 2. Open the `index.html` file in your web browser to view and interact with the counter app.
 
+Or
+
+Click the link here.
+
 ## Learning Outcomes
 
 - Practice using JavaScript to manipulate the DOM.
